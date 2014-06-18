@@ -74,7 +74,7 @@ static const float DAILY_TARGET = 15.0f;
         
         if (_metersDug >= DAILY_TARGET) {
             [_statusLabel setHidden:NO];
-            [_statusLabel setText:@"You done enough for today. Come back tomorrow."];
+            [_statusLabel setText:@"You did enough for today. Come back tomorrow."];
             _gameOver = YES;
             // mabye reset?
         }
