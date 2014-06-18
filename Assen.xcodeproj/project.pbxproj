@@ -33,6 +33,7 @@
 		2D5D81A71950BD5A0075739A /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D5D819F1950BD5A0075739A /* ground.png */; };
 		2D5D81A81950BD5A0075739A /* ground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D5D81A01950BD5A0075739A /* ground@2x.png */; };
 		2D5D81AB1950BE8F0075739A /* AssenNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D5D81AA1950BE8F0075739A /* AssenNode.m */; };
+		2DCB43471951639E00E44FFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DCB43461951639E00E44FFD /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		2D5D81A01950BD5A0075739A /* ground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ground@2x.png"; sourceTree = "<group>"; };
 		2D5D81A91950BE8F0075739A /* AssenNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AssenNode.h; path = AssenNode/AssenNode.h; sourceTree = "<group>"; };
 		2D5D81AA1950BE8F0075739A /* AssenNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AssenNode.m; path = AssenNode/AssenNode.m; sourceTree = "<group>"; };
+		2DCB43461951639E00E44FFD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				2D5D81651950BBE90075739A /* Supporting Files */,
 				2D5D81731950BBE90075739A /* ViewController.h */,
 				2D5D81741950BBE90075739A /* ViewController.m */,
+				2DCB43461951639E00E44FFD /* Main.storyboard */,
 			);
 			path = Assen;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				2D5D81A11950BD5A0075739A /* assen_down.png in Resources */,
 				2D5D817C1950BBE90075739A /* Images.xcassets in Resources */,
 				2D5D817A1950BBE90075739A /* Spaceship.png in Resources */,
+				2DCB43471951639E00E44FFD /* Main.storyboard in Resources */,
 				2D52BCC71950C771000218DE /* smoke@2x.png in Resources */,
 				2D5D81A31950BD5A0075739A /* assen_smoking.png in Resources */,
 			);

@@ -13,7 +13,7 @@ static NSString * const FILE_SMOKING  = @"assen_smoking";
 static NSString * const FILE_DOWN     = @"assen_down";
 static NSString * const FILE_UP       = @"assen_up";
 
-static const int BASE_MOVES = 15;
+static const int BASE_MOVES = 20;
 static const float REST_TIME = 10.0f;
 
 @interface AssenNode ()

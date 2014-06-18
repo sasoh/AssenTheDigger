@@ -8,7 +8,7 @@
 
 #import "MyScene.h"
 
-static const float DAILY_TARGET = 10.0f;
+static const float DAILY_TARGET = 15.0f;
 
 @implementation MyScene
 
